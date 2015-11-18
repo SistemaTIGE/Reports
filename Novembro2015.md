@@ -9,8 +9,8 @@
 
 #### Pontos a cumprir ####
 
-- Realizar os CRUDs no Banco de Dados através da criação dos controllers
-- Criar a 'master page' do TIGE
+- Realizar os CRUDs no Banco de Dados através da criação dos controllers (back-end)
+- Criar a 'master page' do TIGE (front-end)
 - Realizaçao das reuniões nas Sextas-Feiras
 
 <br>
