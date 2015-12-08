@@ -8,7 +8,7 @@ nas reuniões semanais do TIGE, assim como usar esse pontos para definir novas i
 ## Como usar ##
 
 Os pontos escritos sob as cláusulas **Pontos a cumprir** devem ser transformados
-em cartões do Trello na Sprint relacionada àquela determinada iteração.
+em **cartões do Trello** na Sprint relacionada àquela determinada iteração.
 
 ## Arquivos ##
 
