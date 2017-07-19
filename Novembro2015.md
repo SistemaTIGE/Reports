@@ -13,5 +13,4 @@
 - Criar a 'master page' do TIGE (front-end)
 - Realizaçao das reuniões nas Sextas-Feiras
 
-<br>
-Próxima reunião: **Sexta-Feira, 27 de Novembro de 2015**
+Próxima reunião: *Sexta-Feira, 27 de Novembro de 2015*.
